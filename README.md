@@ -1,4 +1,4 @@
-# Fractal-Expllorer
+# Fractal-Explorer
 
 
 1. Use enter and arrow keys in main menu to navigate.
